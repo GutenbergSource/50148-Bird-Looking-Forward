@@ -1,0 +1,22 @@
+
+div.blockquote .div1 {
+    padding-top: 0.8em !important;
+}
+
+div.blockquote .div2 {
+    padding-top: 0.4em !important;
+}
+
+.advtop {
+    border-top: thick double;
+    padding-top: 0.4em;
+}
+
+.adv {
+    border-bottom: thin solid;
+}
+
+.advbottom {
+    border-bottom: thick double;
+    padding-bottom: 0.4em;
+}
